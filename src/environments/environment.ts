@@ -5,13 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-      apiKey: 'AIzaSyBjFx-huVHSDkIaBDH3QMMXJFV8CtlNXUI',
-      authDomain: 'todo-list-app-firebase.firebaseapp.com',
-      databaseURL: 'https://todo-list-app-firebase.firebaseio.com',
-      projectId: 'todo-list-app-firebase',
-      storageBucket: 'todo-list-app-firebase.appspot.com',
-      messagingSenderId: '477606101879',
-      appId: '1:477606101879:web:acebbe3b875d17fa0c9772'
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   }
 };
 
